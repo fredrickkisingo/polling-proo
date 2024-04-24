@@ -7,6 +7,6 @@ Run composer  install
 
 Run npm  install  to install frontend packages
 
-Run npm run dev to install frontend packages
+Run npm run dev to compile frontend packages
 
 
